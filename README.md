@@ -1,6 +1,6 @@
 # AdvancedEP
 Advanced Ear Plugs mod for Arma 3
-#[ING]
+##[ING]
 Advanced plugs with persistent settings
 
 functions:
@@ -24,7 +24,7 @@ Volume Up: HOME
 Volume Down: FIN
 Menu settings: SHIFT + CTRL + O
 
-#[ES]
+##[ES]
 Tapones avanzados con ajustes persistentes
 
 Funciones:
