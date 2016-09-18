@@ -1,7 +1,11 @@
 # AdvancedEP
-Advanced Ear Plugs mod for Arma 3
-##[ING]
+<a rel="license" href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike" target="_blank" ><img src="https://www.bistudio.com/assets/img/licenses/APL-SA.png" ><br>This work is licensed under the Arma Public License</a>
+
+###Advanced Ear Plugs mod for Arma 3
+
+###[ING]
 Advanced plugs with persistent settings
+
 
 functions:<br>
 Switch plugs (alternating between 10% and 100%)<br>
@@ -24,7 +28,7 @@ Volume Up: HOME<br>
 Volume Down: FIN<br>
 Menu settings: SHIFT + CTRL + O<br>
 
-##[ES]
+###[ES]
 Tapones avanzados con ajustes persistentes
 
 Funciones:<br>
