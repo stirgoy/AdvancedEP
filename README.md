@@ -6,7 +6,19 @@
 ###[ING]
 Advanced plugs with persistent settings
 
+###V1.1<br>
+Fixed:<br>
+Save notification on load without settings saved.<br>
+Notification (You can not use the same key for two different functions) to open the menu
 
+Added:<br>
+new button for reset settings to default<br>
+new setting in menu for change notification mode (Top, Bottom and chat)<br>
+GUI colours changed<br>
+added logo to GUI
+
+
+###v1<br>
 functions:<br>
 Switch plugs (alternating between 10% and 100%)<br>
 Put caps (sound 10%)<br>
@@ -31,6 +43,19 @@ Menu settings: SHIFT + CTRL + O<br>
 ###[ES]
 Tapones avanzados con ajustes persistentes
 
+###V1.1<br>
+Correjido:<br>
+Notificacion de guardado al cargar el mod sin ajustes previos.<br>
+Notificacion (No puedes utilizar la misma teccla para dos funciones diferentes.) al abrir el menu ajustes
+
+Añadido:<br>
+Nuevo boton para reestablecer los ajustes por defecto<br>
+Nuevo desplegable para cambiar el modo de notificacion del volumen (Arriba, Abajo, Chat)<br>
+Se han cambiado los colores del GUI<br>
+Se ha añadido el logo al GUI
+
+
+###v1<br>
 Funciones:<br>
 Alternar tapones, (alterna entre 10% y 100%)<br>
 Ponerse tapones (sonido 10%)<br>
