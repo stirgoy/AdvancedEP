@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="AdvancedEP">
+	<Package name="Mod_AEP">
+		<Container name="STR_AEP_STRS">
+			<Key ID="STR_AEP_yes">
+				<Original>yes</Original>
+				<English>yes</English>
+				<Spanish>sí</Spanish>
+			</Key>
+			<Key ID="STR_AEP_no">
+				<Original>no</Original>
+				<Spanish>no</Spanish>
+				<English>no</English>
+			</Key>
+			<Key ID="STR_AEP_overview">
+				<Original>Advanced Ear-plugs.</Original>
+				<Spanish>Tapones avanzados.</Spanish>
+				<English>Advanced Ear-plugs.</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit">
+				<Original>Advanced EP Settings</Original>
+				<Spanish>Ajustes Advanced EP</Spanish>
+				<English>Advanced EP Settings</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_switch">
+				<Original>Switch plugs</Original>
+				<Spanish>Alternar tapones</Spanish>
+				<English>Switch plugs</English>
+			</Key>
+			<Key ID="STR_AEP_settings_keyAssign">
+				<Original>Assigned key</Original>
+				<Spanish>Tecla asignada</Spanish>
+				<English>Assigned key</English>
+			</Key>
+			<Key ID="STR_AEP_settings_combineC">
+				<Original>combined with CTRL</Original>
+				<Spanish>combinar con CTRL</Spanish>
+				<English>combined with CTRL</English>
+			</Key>
+			<Key ID="STR_AEP_settings_combineS">
+				<Original>combined with SHIFT</Original>
+				<Spanish>combinar con SHIFT</Spanish>
+				<English>combined with SHIFT</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_put">
+				<Original>Put caps</Original>
+				<Spanish>Ponerse tapones</Spanish>
+				<English>Put caps</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_quit">
+				<Original>Quit caps</Original>
+				<Spanish>Quitarse tapones</Spanish>
+				<English>Quit caps</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_volup">
+				<Original>Volume up</Original>
+				<Spanish>Subir vol</Spanish>
+				<English>Volume up</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_voldown">
+				<Original>Volume down</Original>
+				<Spanish>Bajar volumen</Spanish>
+				<English>Volume down</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_set">
+				<Original>Settings menu</Original>
+				<Spanish>Menu ajustes</Spanish>
+				<English>Settings menu</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_default">
+				<Original>Exit</Original>
+				<Spanish>Salir</Spanish>
+				<English>Exit</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_default2">
+				<Original>Default</Original>
+				<Spanish>Por defecto</Spanish>
+				<English>Default</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_aviso">
+				<Original>Notice mode</Original>
+				<Spanish>Modo de aviso</Spanish>
+				<English>Notice mode</English>
+			</Key>
+			<Key ID="STR_AEP_settings_tit_saveexit">
+				<Original>Save</Original>
+				<Spanish>Guardar</Spanish>
+				<English>Save</English>
+			</Key>
+			<Key ID="STR_STR_AEP_settings_tit">
+				<Original>Advanced EP settings</Original>
+				<Spanish>Ajustes de Advanced EP</Spanish>
+				<English>Advanced EP settings</English>
+			</Key>
+			<Key ID="STR_STR_AEP_settings_saved">
+				<Original>Settings saved.</Original>
+				<Spanish>Ajustes guardados.</Spanish>
+				<English>Settings saved</English>
+			</Key>
+			<Key ID="STR_STR_AEP_settings_exit_question">
+				<Original>You have unsaved changes&lt;br/&gt;you want to save before exiting?</Original>
+				<Spanish>Tienes cambios sin guardar&lt;br/&gt;¿quieres guardarlos antes de salir?</Spanish>
+				<English>You have unsaved changes&lt;br/&gt;you want to save before exiting?</English>
+			</Key>
+			<Key ID="STR_STR_AEP_settings_exit_question_def">
+				<Original>the default settings are loaded and saved.&lt;br/&gt;Do you want to continue?</Original>
+				<Spanish>Se cargaran los ajustes por defecto y seran guardados&lt;br/&gt;¿quieres continuar?</Spanish>
+				<English>the default settings are loaded and saved.&lt;br/&gt;Do you want to continue?</English>
+			</Key>
+			<Key ID="STR_STR_AEP_settings_def_saved">
+				<Original>Default settings saved.</Original>
+				<Spanish>Ajustes por defecto guardados.</Spanish>
+				<English>Default settings saved.</English>
+			</Key>
+			<Key ID="STR_STR_AEP_settings_exit_tit">
+				<Original>Settings not saved.</Original>
+				<Spanish>Ajustes no guardados.</Spanish>
+				<English>Settings not saved</English>
+			</Key>
+			<Key ID="STR_STR_AEP_settings_exit_tit_def">
+				<Original>Default settings.</Original>
+				<Spanish>Ajustes por defecto.</Spanish>
+				<English>Default settings.</English>
+			</Key>
+			<Key ID="STR_STR_AEP_notif_chat_tit">
+				<Original>Volume = %1%</Original>
+				<Spanish>Volumen = %1%</Spanish>
+				<English>Volume = %1%</English>
+			</Key>
+			<Key ID="STR_STR_AEP_notif_sett_cantrepeat">
+				<Original>You can not use the same key for two different functions.</Original>
+				<Spanish>No puedes utilizar la misma teccla para dos funciones diferentes.</Spanish>
+				<English>You can not use the same key for two different functions.</English>
+			</Key>
+			<Key ID="STR_AEP_cmb_mode_2">
+				<Original>Bottom</Original>
+				<Spanish>Abajo</Spanish>
+				<English>Bottom</English>
+			</Key>
+			<Key ID="STR_AEP_cmb_mode_1">
+				<Original>Chat</Original>
+				<Spanish>Chat</Spanish>
+				<English>Chat</English>
+			</Key>
+			<Key ID="STR_AEP_cmb_mode_0">
+				<Original>Top</Original>
+				<Spanish>Superior</Spanish>
+				<English>Top</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>
+
