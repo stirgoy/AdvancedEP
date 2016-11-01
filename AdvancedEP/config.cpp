@@ -43,7 +43,6 @@ class CfgFunctions
 	};
 };
 
-
 //controles dialogs necesario para GUI
 ///////////////////////////////////////////////////////////////////////////
 /// Styles
@@ -2220,4 +2219,3 @@ class AEP_settings
 
 	};
 };
-
