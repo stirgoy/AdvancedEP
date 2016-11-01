@@ -1,0 +1,9 @@
+*.pbo
+*.bak
+*.rar
+*.zip
+*.bat
+*.exe
+*.iml
+.idea
+*.db
